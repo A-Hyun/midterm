@@ -165,52 +165,7 @@ footer{
 }
 
 img{
-  width: 180px;
-  height: 180px;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #000000;
-}
-
-#main-header{
-  padding: 40px 50px 40px 50px;
-}
-
-#main-navigation{
-  border-width: 1px
-  border-style: solid;
-  border-color: #C8C8C8;
-  margin: 0 0 20px 0;
-  height: 40px;
-}
-
-.outer-menu-item{
-  float: left;
-}
-
-.menu-title{
-  display: block;
-  height: 30px;
-  text-align: center;
-  padding: 5px 20px 5px 20px;
-  color: #000000;
-}
-
-.menu-title:hover{
-  background-color: #000000;
-  color: #FFFFFF;
-}
-
-.munu-title:active{
-  color: #FFF000;
-}
-
-#main-section{
-  float: left;
-  width: 710px;
-}
-
-#main-aside{
-  float: right;
-  width: 200px;
+  width: 1700px;
+  height: 170px;
+  border: solid 1px #000000;
 }
